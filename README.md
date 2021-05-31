@@ -34,15 +34,7 @@ Este repositório é um projeto de um estudo da tecnolgia GraphQl
 
 ## ⚙️ Funcionalidades
 
-- [x] Os usuários podem cadastrar suas tarefas na plataforma web ou mobile:
-  - [x] Selecionanto o tipo da tarefa;
-  - [x] Escolhendo um título;
-  - [x] Colocando uma descrição;
-  - [x] Definir uma data/hora;
-  - [x] Além de criar as tarefas é possível:
-    - Editar
-    - Marcar como tarefa concluída
-    - Excluir tarefa
+- [x] CRUD de users:
 
 ---
 
