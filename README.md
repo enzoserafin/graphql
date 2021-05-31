@@ -71,8 +71,6 @@ Será aberta uma aba no navegador no endereço http://localhost:4000/
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Mobile**  ([React Native](https://reactnative.dev/))
-
 -   **[GraphQL](https://graphql.org/)**
 -   **[Apollo-Server](https://www.apollographql.com/docs/apollo-server/)**
 
